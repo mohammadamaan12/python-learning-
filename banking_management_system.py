@@ -1,5 +1,5 @@
 # BASIC BANKING MANAGEMENT SYSTEM 
-#By Yafis Hussain Khan and Amaan Lateef lone
+
 balance = 0
 account_holder = ""
 
